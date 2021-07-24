@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //test commit for conflict remotely
         //another conflict locally
+        //another conflict
 
 
 
