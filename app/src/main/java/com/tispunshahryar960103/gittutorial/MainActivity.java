@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
         //another conflict
 
 
-
-
-        //test commit for conflict
+        a();
+        b();
+        c();
 
     }
 
