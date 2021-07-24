@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
         //B is a new method
 
     }
+
+    public void c(){
+
+    }
 }
