@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private void b(){
 
         //B is a new method
+        //another comment
 
     }
 
@@ -36,6 +37,10 @@ public class MainActivity extends AppCompatActivity {
     }
     
       public void d(){
+
+        //dddd
+    }
+      public void e(){
 
         //cccc
     }
